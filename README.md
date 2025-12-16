@@ -26,7 +26,7 @@
 <div align="left">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github&preferLogin=false&Ring=000000">    <img  alt="dhernos's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dhernos?cardType=github&theme=github&preferLogin=false&Ring=000000" height="140" />  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhernos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dhernos&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhernos&border_radius=5&mode=weekly&card_width=325&card_height=140&hide_total_contributions=true" alt="GitHub Streak" /></a>
   <img height="140" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
 </div>
 
