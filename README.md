@@ -19,25 +19,6 @@
 
 ###
 
-<h1 align="left">Stats <img height="30" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/></h1>
-
-###
-
-<div align="left">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github&preferLogin=false&Ring=000000">    <img  alt="dhernos's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dhernos?cardType=github&theme=github&preferLogin=false&Ring=000000" height="140" />  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhernos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img height="140" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default" 
-  width="100%" />
-</div>
-
-###
-
 <h1 align="left">Languages <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/></h1>
 
 ###
@@ -64,6 +45,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default" 
+  width="100%" />
+</div>
+
+###
+
+<h1 align="left">Stats <img height="30" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/></h1>
+
+###
+
+<div align="left">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github&preferLogin=false&Ring=000000">    <img  alt="dhernos's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dhernos?cardType=github&theme=github&preferLogin=false&Ring=000000" height="140" />  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhernos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img height="140" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
 </div>
 
 ###
