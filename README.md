@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👋 Hi I'm dhernos<br>🔭 I’m currently working on: <a href="https://github.com/dhernos/vestri">Vestri</a> - a web panel for easy game server deployment<br>🌱 I’m currently learning: NextJS and GO<br>📫 How to reach me? DM on <a href="https://github.com/dhernos#socials-">Discord</a><br>🐧 I use Arch btw</p>
+<p align="left">👋 Hi I'm dhernos<br>🔭 I’m currently working on: <a href="https://github.com/dhernos/vestri">Vestri</a> - a web panel for easy game server deployment<br>🌱 I’m currently learning: NextJS and GO<br>📫 How to reach me? DM on <a href="https://github.com/dhernos#socials-">Discord or Matrix</a><br>🐧 I use Arch btw</p>
 
 ###
 
