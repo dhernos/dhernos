@@ -99,14 +99,8 @@
 ###
 
 <div align="left">
-  <a href="https://x.com/dhernos" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://discord.com/users/352073024524124160" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/dhernos" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="40" alt="instagram logo"  />
   </a>
   <a href="https://matrix.to/#/@dhernos:matrix.lwsnr.com" target="_blank">
     <img src="https://matrix.org/blog/img/matrix-logo.png" height="40" alt="matrix logo"  />
